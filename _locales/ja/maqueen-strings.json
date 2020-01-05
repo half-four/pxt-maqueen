@@ -19,5 +19,5 @@
     "maqueen.IR_read|block": "IR値",
     "maqueen.servoRun|block": "サーボモーター|%index|角度|%angle",
     "maqueen.IR_read_version|block": "IRバージョン",
-	"maqueen.Motors.All|block": "すべて"
+    "maqueen.Motors.All|block": "すべて"
 }
